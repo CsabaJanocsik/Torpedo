@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba55a9f1-78c4-430f-9f27-39057353c2f1" name="Default Changelist" comment="First, maybe bugged version of Torpedo game">
+    <list default="true" id="ba55a9f1-78c4-430f-9f27-39057353c2f1" name="Default Changelist" comment="First, maybe bugged version of Torpedo game 2.0">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/model/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hu/nye/progtech/torpedo/service/map/reader/impl/BufferedReaderMapReaderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/model/MapVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/model/MapVO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634524689112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First, maybe bugged version of Torpedo game 2.0">
+      <created>1634525719981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634525719981</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First, maybe bugged version of Torpedo game" />
-    <option name="LAST_COMMIT_MESSAGE" value="First, maybe bugged version of Torpedo game" />
+    <MESSAGE value="First, maybe bugged version of Torpedo game 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="First, maybe bugged version of Torpedo game 2.0" />
   </component>
 </project>
