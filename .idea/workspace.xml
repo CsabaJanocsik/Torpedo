@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba55a9f1-78c4-430f-9f27-39057353c2f1" name="Default Changelist" comment="First, maybe bugged version of Torpedo game">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/model/MapVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/service/exception/MapParsingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/service/exception/MapReadingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/service/map/parser/MapParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/service/map/reader/MapReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/service/map/reader/impl/BufferedReaderMapReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/model/MapVO$MapVOBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/model/MapVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/service/exception/MapParsingException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/service/exception/MapReadingException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/service/map/parser/MapParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/service/map/reader/MapReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hu/nye/progtech/torpedo/service/map/reader/impl/BufferedReaderMapReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/model/MapVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/nye/progtech/torpedo/model/MapVO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +35,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="testing.instrumented.configuration" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -89,6 +66,14 @@
       <option name="presentableId" value="Default" />
       <updated>1634511814056</updated>
     </task>
+    <task id="LOCAL-00001" summary="First, maybe bugged version of Torpedo game">
+      <created>1634524689112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634524689112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.Objects;
 
 public final class MapVO {
-
     public static MapVOBuilder builder() {
         return new MapVOBuilder();
     }
